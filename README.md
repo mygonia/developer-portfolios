@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Mateus Sateles](https://mateuslacerda.com/index.html)
 
 ## N
 
