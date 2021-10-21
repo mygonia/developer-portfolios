@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 - [Adrián Egea Comenge](https://adrianensis.github.io/portfolio/)
+- [Arvi "Hempuli" Teikari](https://www.hempuli.com/)
 
 ## B
 
@@ -42,6 +43,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 ## I
+- [Ian Wang](https://quichi.itch.io/)
 
 
 ## J
@@ -56,6 +58,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## L
 
 - [Luca Rickler](https://lucarickler.github.io/portfolio/home)
+- [Lucas Pope](https://dukope.com/)
 
 ## M
 
