@@ -16,10 +16,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
-- [Aaron Dunphy](https://aarondunphy.com)
+- [Adrián Egea Comenge](https://adrianensis.github.io/portfolio/)
 
 ## B
+
+- [Bennett Foddy](http://www.foddy.net/)
 
 
 ## C
@@ -46,6 +47,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## J
 
 - [Joeb Rogers](https://joebrogers.com/)
+- [Josh Maines](https://www.tapskill.com/)
+- [Joey DeVries](https://joeydevries.com/)
 
 ## K
 
@@ -72,6 +75,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 ## S
+
+- [Santiago Alvarez](https://santiagoalvarez.me/)
+- [Samir Riecke](https://www.artstation.com/swipish)
+
 
 
 ## T
