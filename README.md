@@ -55,6 +55,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## L
 
+- [Luca Rickler](https://lucarickler.github.io/portfolio/home)
 
 ## M
 
