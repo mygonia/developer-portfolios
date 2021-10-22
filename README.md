@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 - [Adrián Egea Comenge](https://adrianensis.github.io/portfolio/)
+- [Alex van Halen](https://avanhalen.wordpress.com/)
 - [Arvi "Hempuli" Teikari](https://www.hempuli.com/)
 
 ## B
@@ -25,7 +26,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 ## C
-
+- [Connor Douglas](https://cdouglas.io/)
 
 ## D
 
@@ -47,10 +48,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 ## J
-
+- [Joakim Hedman](https://www.joakimhedman.se/)
 - [Joeb Rogers](https://joebrogers.com/)
-- [Josh Maines](https://www.tapskill.com/)
 - [Joey DeVries](https://joeydevries.com/)
+- [Josh Maines](https://www.tapskill.com/)
 
 ## K
 
@@ -77,6 +78,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 ## R
+- [Reid Scarboro](http://reidscarboro.com/)
 
 
 ## S
@@ -87,7 +89,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 ## T
-
+- [Tim Simpson](https://www.artstation.com/pixelmasher)
 
 ## U
 
